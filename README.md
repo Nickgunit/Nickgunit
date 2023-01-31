@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi my name is Nick
 #### I am a Front-End Developer and Designer
-![I am a Front-End Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front-End Developer and Designer](https://github.com/Nickgunit/Nickgunit/blob/main/Soft%20Blue%20Geometric%20Business%20Banner.png?raw=true&auto=format&fit=crop&w=300&q=80)
 
 I'm Nickolus, Nick for short. I've mostly had a great career being a great sales/customer service representative, but I wanted more of a challenge. I learned how to code in high school and from Computer Coach Program. With having my experience through customer relations and front-end development, I feel excited to put my skills to use to be the best in the business. I am willing to do whatever it takes to have a career in the most skillful profession worldwide.
 
